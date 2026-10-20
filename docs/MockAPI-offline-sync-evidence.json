@@ -1,0 +1,22 @@
+{
+  "before": "Absent during offline creation",
+  "after": [
+    {
+      "BIT240253_Id": "127d0cad-4ea6-49ee-9091-5b229154ef7b",
+      "BIT240253_Name": "BIT240253 Offline Bowl",
+      "BIT240253_Description": "Created offline by Mai Van Viet - BIT240253",
+      "BIT240253_Price": 49000,
+      "BIT240253_PreparationTime": 12,
+      "BIT240253_IsAvailable": true,
+      "BIT240253_DishCategoryId": "cat-light",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640",
+          "BIT240253_IsThumbnail": true
+        }
+      ],
+      "BIT240253_RemoteId": "6"
+    }
+  ],
+  "assertion": "Exactly one record, price=49000, automatically synchronized after network restored"
+}

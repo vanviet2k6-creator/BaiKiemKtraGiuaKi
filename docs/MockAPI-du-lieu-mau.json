@@ -1,0 +1,124 @@
+{
+  "BIT240253_DishCategory": [
+    {
+      "BIT240253_Id": "cat-main",
+      "BIT240253_Name": "Main dishes",
+      "BIT240253_Description": "Rice, noodles and nourishing meals",
+      "BIT240253_RemoteId": "1"
+    },
+    {
+      "BIT240253_Id": "cat-light",
+      "BIT240253_Name": "Light bites",
+      "BIT240253_Description": "Fresh starters and salads",
+      "BIT240253_RemoteId": "2"
+    },
+    {
+      "BIT240253_Id": "cat-drink",
+      "BIT240253_Name": "Drinks",
+      "BIT240253_Description": "Coffee, tea and fresh drinks",
+      "BIT240253_RemoteId": "3"
+    }
+  ],
+  "BIT240253_Dish": [
+    {
+      "BIT240253_Id": "dish-01",
+      "BIT240253_Name": "Chicken rice",
+      "BIT240253_Description": "Fragrant rice with grilled chicken and seasonal greens.",
+      "BIT240253_Price": 55000,
+      "BIT240253_PreparationTime": 20,
+      "BIT240253_IsAvailable": true,
+      "BIT240253_DishCategoryId": "cat-main",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+          "BIT240253_IsThumbnail": false
+        },
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=640&q=80",
+          "BIT240253_IsThumbnail": true
+        }
+      ],
+      "BIT240253_RemoteId": "1"
+    },
+    {
+      "BIT240253_Id": "dish-02",
+      "BIT240253_Name": "Beef noodles",
+      "BIT240253_Description": "Slow simmered broth, rice noodles and tender beef.",
+      "BIT240253_Price": 65000,
+      "BIT240253_PreparationTime": 25,
+      "BIT240253_IsAvailable": true,
+      "BIT240253_DishCategoryId": "cat-main",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=640&q=80",
+          "BIT240253_IsThumbnail": true
+        },
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+          "BIT240253_IsThumbnail": false
+        }
+      ],
+      "BIT240253_RemoteId": "2"
+    },
+    {
+      "BIT240253_Id": "dish-03",
+      "BIT240253_Name": "Garden salad",
+      "BIT240253_Description": "Crisp vegetables with a light citrus dressing.",
+      "BIT240253_Price": 35000,
+      "BIT240253_PreparationTime": 10,
+      "BIT240253_IsAvailable": true,
+      "BIT240253_DishCategoryId": "cat-light",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+          "BIT240253_IsThumbnail": true
+        },
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=640&q=80",
+          "BIT240253_IsThumbnail": false
+        }
+      ],
+      "BIT240253_RemoteId": "3"
+    },
+    {
+      "BIT240253_Id": "dish-04",
+      "BIT240253_Name": "Spring rolls",
+      "BIT240253_Description": "Fresh rolls with herbs, vegetables and dipping sauce.",
+      "BIT240253_Price": 30000,
+      "BIT240253_PreparationTime": 15,
+      "BIT240253_IsAvailable": false,
+      "BIT240253_DishCategoryId": "cat-light",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=640&q=80",
+          "BIT240253_IsThumbnail": true
+        },
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=640&q=80",
+          "BIT240253_IsThumbnail": false
+        }
+      ],
+      "BIT240253_RemoteId": "4"
+    },
+    {
+      "BIT240253_Id": "dish-05",
+      "BIT240253_Name": "Iced coffee",
+      "BIT240253_Description": "Vietnamese coffee with condensed milk, served over ice.",
+      "BIT240253_Price": 25000,
+      "BIT240253_PreparationTime": 5,
+      "BIT240253_IsAvailable": true,
+      "BIT240253_DishCategoryId": "cat-drink",
+      "BIT240253_DishImage": [
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=640&q=80",
+          "BIT240253_IsThumbnail": true
+        },
+        {
+          "BIT240253_ImageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=640&q=80",
+          "BIT240253_IsThumbnail": false
+        }
+      ],
+      "BIT240253_RemoteId": "5"
+    }
+  ]
+}

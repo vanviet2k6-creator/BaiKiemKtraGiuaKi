@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+*.jks
+
+# Video 2 is intentionally excluded from this submission repository.
+**/Video_2*
+**/Kich_ban_Video_2*
+**/video2*
+**/narration*
