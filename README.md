@@ -196,7 +196,7 @@ Các nguồn dùng để đối chiếu API kỹ thuật; mã nguồn được v
 
 ## Hồ sơ nộp bài trên GitHub
 
-Kho nộp bài: https://github.com/vanviet2k6-creator/B-i-Ktra-Gi-a-K-
+Kho nộp bài: https://github.com/vanviet2k6-creator/BaiKiemKtraGiuaKi
 
 Project Android Studio nằm tại thư mục gốc. Tên project trong `settings.gradle` vẫn là `BIT240253_FoodManager`, đúng mẫu đề bài.
 

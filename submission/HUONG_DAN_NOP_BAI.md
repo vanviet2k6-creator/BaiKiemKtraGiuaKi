@@ -1,6 +1,6 @@
 # Hồ sơ nộp bài – Mai Van Viet – BIT240253
 
-Kho GitHub: https://github.com/vanviet2k6-creator/B-i-Ktra-Gi-a-K-
+Kho GitHub: https://github.com/vanviet2k6-creator/BaiKiemKtraGiuaKi
 
 1. Nhấn **Code → Download ZIP** hoặc dùng `git clone` để tải mã nguồn. Mở thư mục gốc bằng Android Studio. Tên project là `BIT240253_FoodManager`.
 2. Chạy module `app` hoặc cài `submission/BIT240253_FoodManager.apk` trên Android API 26 trở lên.
